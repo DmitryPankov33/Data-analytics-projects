@@ -21,5 +21,4 @@ This project focuses on enhancing software engineering skills by developing and 
 - **`.streamlit/config.toml`**: Configuration file for Streamlit deployment.
 - **`requirements.txt`**: Lists the Python packages required for the project.
 
-### Course Information
-This project was completed as part of a course focused on developing software engineering skills and building web applications with real-world datasets.
+*This project was completed as part of a course focused on developing software engineering skills and building web applications with real-world datasets.*
