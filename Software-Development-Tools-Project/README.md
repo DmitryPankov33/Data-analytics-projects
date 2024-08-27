@@ -1,12 +1,25 @@
-# project
-Software Development Tools: Project
-This project aims to provide you with additional practice on common software engineering tasks. These tasks will augment and complement your data skills, and make you a more attractive job candidate to potential employers. 
+# Software Development Tools: Project
 
-You will be asked to develop and deploy a web application to a cloud service so that it is accessible to the public.
+### Project Overview
+This project focuses on enhancing software engineering skills by developing and deploying a web application using a car sales advertisements dataset. The web app is accessible via a cloud service and includes interactive visualizations for data analysis.
 
-In this project, we will provide you with the dataset on car sales advertisements, which you’ve already worked with in the past.
+### Key Features
+- **Web Application**: Developed with Streamlit to display car sales data interactively.
+- **Data Analysis**: Includes exploratory data analysis (EDA) to gain insights from the dataset.
+- **Visualizations**: Features histograms and scatter plots created using Plotly and Altair.
+- **Interactivity**: Users can interact with the data through checkboxes and other Streamlit components.
 
-The project is split into several steps that replicate the process described in our blog post here, but we will be using the Render platform instead of Heroku.
+### Dataset
+- **`vehicles_us.csv`**: Contains car sales advertisements data used for analysis and visualization.
 
+### Deployment
+- The application is deployed on Render and can be accessed [here](https://project-da7z.onrender.com/).
 
-https://project-da7z.onrender.com/  - URL of your app on Render to my project.
+### Project Structure
+- **`app.py`**: Main application file for the Streamlit web app.
+- **`notebooks/EDA.ipynb`**: Jupyter notebook containing exploratory data analysis.
+- **`.streamlit/config.toml`**: Configuration file for Streamlit deployment.
+- **`requirements.txt`**: Lists the Python packages required for the project.
+
+### Course Information
+This project was completed as part of a course focused on developing software engineering skills and building web applications with real-world datasets.
