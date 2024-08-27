@@ -17,4 +17,7 @@ The dataset includes user information such as the track played, the artist, genr
 - **Hypothesis 2**: Musical preferences do not vary significantly over the course of the week in both Springfield and Shelbyville. Pop music is the most listened-to genre in both cities. Therefore, this hypothesis is not accepted. It's important to note that missing values may have affected the result.
 - **Hypothesis 3**: The musical preferences of users from Springfield and Shelbyville are quite similar. This hypothesis is rejected, as any differences in preferences are not evident from this data.
 
+**Notebook**:
+The full analysis, including code and visualizations, is available in the Jupyter Notebook: [Music Preferences Project Notebook](./Music%20preferences%20project.ipynb).
+
 *This project was completed as part of the Python Fundamentals module in my Data Analytics course. It served as an introductory exercise to build my foundational skills in Python and data analysis.*
