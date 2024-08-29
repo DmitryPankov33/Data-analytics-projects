@@ -23,8 +23,7 @@ The dataset used in this project consists of the following files:
 - **`order_products.csv`**: Links orders to the products purchased.
 
 ### Notebook
-The full analysis, including code and visualizations, is available in the Jupyter Notebook: **Instacart Project Notebook**.
-
+The full analysis, including code and visualizations, is available in the Jupyter Notebook: [Instacart Project Notebook](./Instacart%20Project.ipynb).
 
 
 *This project was completed as part of a course focused on data analysis and preprocessing techniques using real-world datasets.*
