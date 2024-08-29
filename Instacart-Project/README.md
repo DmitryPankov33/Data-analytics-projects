@@ -25,4 +25,6 @@ The dataset used in this project consists of the following files:
 ### Notebook
 The full analysis, including code and visualizations, is available in the Jupyter Notebook: **Instacart Project Notebook**.
 
+
+
 *This project was completed as part of a course focused on data analysis and preprocessing techniques using real-world datasets.*
