@@ -1,4 +1,4 @@
-# Instacart Shopping Data Analysis
+# Instacart Shopping Project
 
 ### Project Overview
 This project involves analyzing and cleaning a modified dataset from Instacart, a grocery delivery platform. The goal is to gain insights into the shopping habits of Instacart customers by cleaning the data, handling missing and duplicate values, and performing various analyses to answer specific questions.
