@@ -18,9 +18,6 @@ In this project, I enhanced my software engineering skills by developing and dep
 ### Dataset:
 - **`vehicles_us.csv`**: Contains data on car sales advertisements, used for analysis and visualization.
 
-### Deployment:
-- The application is deployed on Render and can be accessed [here](https://project-da7z.onrender.com/).
-
 ### Project Structure:
 - **`app.py`**: Main application file for the Streamlit web app.
 - **`notebooks/EDA.ipynb`**: Jupyter notebook containing exploratory data analysis.
