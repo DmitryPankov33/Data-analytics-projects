@@ -70,3 +70,18 @@ Welcome to my Data Analytics Portfolio! This repository showcases a series of re
 **Links:**  
 - [Project Files](./Final%20Project%20-%20Product%20Analysis%20for%20AtliQ%20Hardware/README.md)
 
+## Skills and Tools
+
+Throughout these projects, I have developed and honed the following skills:
+
+- **Data Analysis**: Cleaning, preprocessing, and analyzing large datasets using Python and Excel.
+- **Data Visualization**: Creating interactive dashboards and visualizations using Tableau, Plotly, and Matplotlib.
+- **Machine Learning**: Developing models for classification tasks using Scikit-learn.
+- **A/B Testing**: Designing and analyzing A/B tests to optimize business outcomes.
+- **SQL**: Writing complex SQL queries to extract and analyze data from databases.
+- **Web Development**: Creating and deploying interactive web applications using Streamlit.
+
+## Contact
+
+Feel free to reach out if you have any questions or would like to discuss any of the projects further. You can contact me through [GitHub](https://github.com/DmitryPankov33).
+
