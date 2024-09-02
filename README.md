@@ -83,5 +83,5 @@ Throughout these projects, I have developed and honed the following skills:
 
 ## Contact
 
-Feel free to reach out if you have any questions or would like to discuss any of the projects further. You can contact me through [GitHub](https://github.com/DmitryPankov33).
+Feel free to reach out if you have any questions or would like to discuss any of the projects further. You can contact me through [LinkedIn](https://www.linkedin.com/in/dmitry-pankov-126689234/).
 
